@@ -1,0 +1,53 @@
+* {
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+html {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body {
+    text-align: center;
+    background-color: black;
+}
+section {
+    margin-bottom: 4rem;
+}
+
+h1 {
+    font-weight: normal;
+    font-size: 52px;
+    color: white;
+    text-align: center;
+    margin: 2rem;
+}
+
+h2 {
+    font-weight: 300;
+    color: white;
+    font-size: 42px;
+    margin: 2rem;
+}
+
+p {
+    font-size: 21px;
+    color: gray;
+    margin:2rem;
+}
+
+a {
+    color: aquamarine;
+    font-size: 16px;
+    margin:2rem;
+}
+
+.video-container {
+    margin: 2rem;
+}
+
+footer {
+    text-align: end;
+    color: gray;
+}
